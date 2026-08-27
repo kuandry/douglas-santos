@@ -16,7 +16,7 @@ Atualmente, busco evoluir continuamente em **Cloud, arquitetura de software, Int
 
 - **Full Stack Developer**
 - React, Next.js, TypeScript e JavaScript
-- Node.js e NestJS
+- Node.js, NestJS e Express
 - AWS e arquiteturas Serverless
 - PostgreSQL, MySQL e MariaDB
 - Desenvolvimento e integração de APIs
@@ -59,7 +59,7 @@ Atualmente, busco evoluir continuamente em **Cloud, arquitetura de software, Int
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### DevOps & Ferramentas
 
@@ -105,9 +105,9 @@ Experiência em soluções com arquitetura **Multi-tenant**, trabalhando com con
 
 ## IA Aplicada ao Desenvolvimento
 
-A **Inteligência Artificial** faz parte do meu processo de desenvolvimento, sendo utilizada como ferramenta para aumentar produtividade, explorar soluções, automatizar tarefas e auxiliar na resolução de problemas técnicos.
+Utilizo ferramentas e recursos de **Inteligência Artificial** como parte do meu processo de desenvolvimento, principalmente para aumentar produtividade, explorar soluções, automatizar tarefas e auxiliar na análise e resolução de problemas técnicos.
 
-Tenho interesse e experiência prática com:
+Tenho experiência prática com:
 
 - **AI-Assisted Development**
 - Automação de tarefas
@@ -134,8 +134,8 @@ A experiência em gestão complementa minha formação técnica, proporcionando 
 - **Inglês** — Udemy
 - Cloud Computing e arquiteturas Serverless
 - Inteligência Artificial aplicada ao desenvolvimento
-- **Go**
-- **Python**
+- Fundamentos de **Go**
+- Fundamentos de **Python**
 - PostgreSQL e arquitetura de aplicações
 - Arquitetura e boas práticas de desenvolvimento de software
 
