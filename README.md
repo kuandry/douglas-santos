@@ -44,7 +44,6 @@ Atualmente, busco evoluir continuamente em **Cloud, arquitetura de software, Int
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Databases
 
@@ -136,6 +135,7 @@ A experiência em gestão complementa minha formação técnica, proporcionando 
 - Cloud Computing e arquiteturas Serverless
 - Inteligência Artificial aplicada ao desenvolvimento
 - **Go**
+- **Python**
 - PostgreSQL e arquitetura de aplicações
 - Arquitetura e boas práticas de desenvolvimento de software
 
